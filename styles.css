@@ -1,6 +1,15 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.banner {
+	background-color: #24985C;
+	height: 100px;
+	width: 100%;
+}
 .wrapper {
 	overflow: auto;
-	margin: 80px;
+	margin: 40px 60px 0px 60px;
 }
 .left {
 	float: left;
